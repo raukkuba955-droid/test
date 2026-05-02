@@ -1,0 +1,26 @@
+{
+  "name": "arras-follow-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6",
+    "msgpack-lite": "^0.1.26",
+    "msgpackr": "^1.11.8",
+    "node-fetch": "^3.3.2",
+    "readline": "^1.3.0",
+    "socks-proxy-agent": "^8.0.5",
+    "url": "^0.11.4",
+    "ws": "^8.19.0"
+  }
+}

@@ -1,0 +1,6 @@
+[BOT] Alpha 
+[BOT] Bravo 
+[BOT] Charlie 
+[BOT] Delta 
+[BOT] Echo 
+[BOT] Foxtrot 

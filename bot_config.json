@@ -1,0 +1,44 @@
+{
+  "squadId": "epb",
+  "name": " ",
+  "tank": "Pincer",
+  "tankMode": "single",
+  "activePreset": "ADG Advanced",
+  "keys": [],
+  "autoFire": false,
+  "autoRespawn": true,
+  "target": "mouse",
+  "aim": "movement",
+  "chatSpam": "",
+  "stats": [
+    3,
+    3,
+    1,
+    9,
+    9,
+    9,
+    9,
+    0,
+    3,
+    0
+  ],
+  "launchDelay": 200,
+  "region": "wa2635",
+  "nameMode": "fixed",
+  "nameFile": "irl_names.txt",
+  "multiTankConfig": [
+    {
+      "count": 8,
+      "tank": "Mingler",
+      "keys": []
+    },
+    {
+      "count": 8,
+      "tank": "Leviathan",
+      "keys": []
+    }
+  ],
+  "reconnectAttempts": 3,
+  "reconnectDelay": 20000,
+  "currentProxyIndex": 9176
+}
